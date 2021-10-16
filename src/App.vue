@@ -1,10 +1,9 @@
 <template lang="pug">
-  #app.bg-gray-400.h-screen
-    .w-full
-      .flex.flex-row
-        Sidebar
-        Home
-        Rightbar
+  #app.bg-gray-400.h-screen.w-full    
+    .flex.flex-row
+      Sidebar
+      Home
+      Rightbar
     Footer
 </template>
 

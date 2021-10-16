@@ -1,4 +1,4 @@
-# pug-test-project
+# spotify-template
 
 ## Project setup
 ```
